@@ -1,6 +1,6 @@
 # thirty_widgets
 
-A new Flutter project.
+Flutter project that cover basic concept and widgets 
 
 ## Getting Started
 
